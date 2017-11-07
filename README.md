@@ -1,1 +1,1 @@
-# Info2180-Project2
+# INFO2180 - Project 2 - The Fifteen Puzzle
